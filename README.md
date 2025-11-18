@@ -2,7 +2,7 @@
 
 # 🌸 Welcome to My GitHub Profile
 
-<img width="300" alt="Programmer Girl" src="https://github.com/user-attachments/assets/ea19d9f3-b207-4e18-9135-260894aed5a3" />
+[![Watch My AI Video](https://img.shields.io/badge/Watch-AI%20Video-ff69b4?style=for-the-badge)](https://pollo.ai/v/cmi4xs7wj04nk34wbgessqigp?source=share)
 
 ## 👩‍💻 About Me
 Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquering Java one line at a time.
@@ -24,8 +24,6 @@ Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquerin
 
 ## 📊 GitHub Stats
 ![Mulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulk000&show_icons=true&theme=rose_pine&hide_rank=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulk000&layout=compact&theme=rose_pine
 
 ## 🏃‍♀️ GitHub Activity
 ![Mulk's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mulk000&theme=radical)
