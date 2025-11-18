@@ -2,6 +2,8 @@
 
 # 🌸 Welcome to My GitHub Profile
 
+## 🎥 My AI Video
+
 [![Watch My AI Video](https://img.shields.io/badge/Watch-AI%20Video-ff69b4?style=for-the-badge)](https://pollo.ai/v/cmi4xs7wj04nk34wbgessqigp?source=share)
 
 ## 👩‍💻 About Me
