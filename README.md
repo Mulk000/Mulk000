@@ -23,13 +23,11 @@ Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquerin
 ---
 
 ## 📊 GitHub Stats
-![Mulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulk000&show_icons=true&theme=rose_pine)
+![Mulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulk000&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&bg_color=ff69b4&text_color=ffffff)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulk000&layout=compact&theme=rose_pine)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mulk000&theme=rose_pine)
-🌸 Why This Works
----
 
 ## 🏃‍♀️ GitHub Activity
 ![Mulk's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mulk000&theme=radical)
