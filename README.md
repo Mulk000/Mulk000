@@ -23,7 +23,9 @@ Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquerin
 ---
 
 ## 📊 GitHub Stats
-![Mulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulk000&show_icons=true&theme=radical)
+![Mulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulk000&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulk000&layout=compact&theme=tokyonight)
 
 ---
 
@@ -31,10 +33,5 @@ Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquerin
 ![Mulk's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mulk000&theme=radical)
 
 ---
-
-## 🛠️ Projects
-- [Hospital Management System](https://github.com/Mulk000/hospital-management) – Java-based system using classes and inheritance.  
-- [Library Management System](https://github.com/Mulk000/library-management) – Focused on interfaces and clean design.  
-- [Network Topology Simulator] – *Coming soon!* A tool to visualize basic network setups.
 
 </div>
