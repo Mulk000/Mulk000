@@ -2,14 +2,13 @@
 
 # 🌸 Welcome to My GitHub Profile
 
-## 🎥 My AI Video
+## 👩‍💻 About Me
+Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquering Java one line at a time.
 
 <p align="center">
   <img src="https://github.com/Mulk000/Mulk000/blob/main/image.vid.gif" width="400">
 </p>
 
-## 👩‍💻 About Me
-Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquering Java one line at a time.
 
 ---
 
