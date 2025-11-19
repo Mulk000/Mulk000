@@ -5,7 +5,7 @@
 ## 🎥 My AI Video
 
 <p align="center">
-  <img src="image.vid" width="600" alt="GIF Preview">
+  <img src="image.vdi" width="600">
 </p>
 
 ## 👩‍💻 About Me
