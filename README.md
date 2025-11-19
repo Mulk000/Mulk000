@@ -5,7 +5,7 @@
 ## 🎥 My AI Video
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mulk000/Mulk000/main/mygif.gif" width="600">
+  <img src="https://github.com/Mulk000/Mulk000/blob/main/image.vid.gif" width="600">
 </p>
 
 ## 👩‍💻 About Me
