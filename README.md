@@ -4,8 +4,9 @@
 
 ## 🎥 My AI Video
 
-<video src="https://raw.githubusercontent.com/USERNAME/REPO/main/video.mp4" width="100%" controls></video>
-
+<p align="center">
+  <img src="image.vid" width="600" alt="GIF Preview">
+</p>
 
 ## 👩‍💻 About Me
 Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquering Java one line at a time.
