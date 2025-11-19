@@ -4,7 +4,8 @@
 
 ## 🎥 My AI Video
 
-[![Watch My AI Video](https://img.shields.io/badge/Watch-AI%20Video-ff69b4?style=for-the-badge)](https://pollo.ai/v/cmi4xs7wj04nk34wbgessqigp?source=share)
+<video src="https://raw.githubusercontent.com/USERNAME/REPO/main/video.mp4" width="100%" controls></video>
+
 
 ## 👩‍💻 About Me
 Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquering Java one line at a time.
