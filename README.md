@@ -25,9 +25,6 @@ Hi, I’m **Mulk** — a fearless engineer shaping ideas into code and conquerin
 
 ---
 
-## 📊 GitHub Stats
-![Mulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulk000&show_icons=true&theme=rose_pine&hide_rank=true)
-
 ## 🏃‍♀️ GitHub Activity
 ![Mulk's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mulk000&theme=radical)
 
